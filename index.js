@@ -41,3 +41,7 @@ function decrement(n) {
 function makeInt(n) {
   return (n.toString());
 }
+
+function makeInt(string) {
+  return (parseInt)
+}
