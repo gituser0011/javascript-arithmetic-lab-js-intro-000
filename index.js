@@ -39,10 +39,10 @@ function decrement(n) {
 }
 
 function makeInt(n) {
-  return (n.parseInt());
+  return (parseInt(n, 10);
 }
 
-function makeInt(n) {
+function preserveDecimal(n) {
   return (parseInt)
 }
 
